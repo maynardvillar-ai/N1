@@ -207,6 +207,4 @@ def main():
         else:
             print("❌ Invalid choice! Please choose 1–7.")
 
-# --- Run the program ---
-if __name__ == "__main__":
-    main()
+# Hello Nard
